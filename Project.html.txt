@@ -1,0 +1,47 @@
+<html>
+<head>
+	<title>AI in Medicine</title>
+</head>
+
+<body style="background-color:Bisque; font-family: Times New Roman;">
+
+	<!-- Header -->
+	<p style="font: bold 40px Arial; color: black; text-align: center;">
+	Himani Batham <br>
+	CSIT 100 - 08 <br>
+	Webography Project <br>
+	April 14, 2026
+</p>
+<hr>
+<hr> 
+	<!-- Title -->
+	<p style="font: bold 40px Times New Roman; color: black; text-align: center;">
+		<i>AI in Medicine </i>
+    </p>	
+<hr>
+    <!-- Subtopics -->
+
+  <p style="font-size:22px; color: black ;"><b><i>Subtopics:</i></b></p>
+ <ol style="font-size:20px;">
+        <li>
+            <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10071847/"> Machine Learning in Medicine </a>
+</li>
+<li>
+	<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11612599/"> Risks and Benefits of AI in medicine </a>
+</li>
+<li>
+	<a href="https://www.ama-assn.org/practice-management/digital-health/2-3-physicians-are-using-health-ai-78-2023> Stats of AI usage in Medical field </a>
+</li>
+<li>
+
+ </ol>
+
+<hr>
+<!-- Paper + Presentation Links -->
+<p style="font-size:20px;">
+<a href="Research paper CSIT 100.doc">Paper</a><br><br>
+        <a href="AI in medicine.ppt">Presentation</a>
+    </p>
+
+</body>
+</html>
